@@ -1,0 +1,12 @@
+{
+  "name": "Gương dán tủ quần áo, dán tường phòng trọ",
+  "size": "30 × 100 cm",
+  "material": "acrylic tráng bạc",
+  "unit_price_vnd": 199000,
+  "shipping": "Miễn phí toàn quốc",
+  "payment": "COD — thanh toán khi nhận hàng",
+  "warranty": "Nếu gương bị rơi hoặc vỡ, shop bảo hành gửi lại gương khác.",
+  "refund_internal": "Không chủ động đề cập hoàn tiền. Nếu khách hỏi trực tiếp, giải thích shop bảo hành đổi gương thay thế; không hứa hoàn tiền và chuyển chủ shop nếu cần.",
+  "unknown": ["thời gian giao hàng", "thời hạn và điều kiện chi tiết của bảo hành", "kiểm hàng trước thanh toán", "độ dày", "khả năng bám trên từng bề mặt", "độ phản chiếu", "cách lắp đặt đã được shop kiểm chứng"],
+  "other_sizes": "Chỉ bán 30 × 100 cm; mọi yêu cầu kích thước khác phải báo Telegram và tạm dừng bot."
+}
